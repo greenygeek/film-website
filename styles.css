@@ -1,0 +1,128 @@
+/*-- Film Website Styles --*/
+
+body{
+	font-family:'moderno fb extra condensed light';
+	color: blue;
+}
+
+.title {
+	font-family: 'Moderno';
+	font-size: 98px;
+	color: #010c76;
+	margin-left: 35px;
+	margin-top: 35px;
+}
+
+.header {
+	text-align: center;
+	font-size: 60px;
+	color: #AD0000;
+}
+
+.bench {
+	width: 100%;
+}
+
+.trailer {
+	padding:5px;
+	background:#000;-webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px;
+	width:570px;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+.line {
+	border: 4px solid #010c76;
+}
+
+.synopsis {
+	text-align: left;
+	font-size: 16px;
+	font-weight: strong;
+	color:#010c76;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+.info-button {
+	margin-top: 2em;
+	margin-right: 2em;
+	margin-left: 2.5em;
+	margin-bottom: 2em;
+	line-height: 200px;
+	text-align: center;
+	border: 5px solid #AD0000;
+	border-radius: 15px;
+	box-shadow: -2px 2px 1px 1px #010c76;
+	height:25%;
+	width: 20%;
+	float: left;
+}
+
+.characters {
+	margin-left: 10px;
+}
+
+.character-text{
+	color: #FFFFFD;
+	font-size: 16px;
+	font-weight: strong;
+	margin-top:10px;
+}
+
+.bkgimage{
+	width: 100%;
+	background-size: cover;
+	z-index:-10;
+	background-image:url(images/gump_feather2.png);
+}
+
+.text {
+	color: #010c76;
+	font-size: 30px;
+	font-family: times-new-roman;
+}
+/*-- Long Run Map --*/
+.map { 
+	padding-top: 2em;
+	padding-left: 2em;
+	padding-bottom: 2em;
+	text-align: center;
+}
+
+
+
+/* -- Footer --*//
+
+.novel {
+	padding-top: 2em;
+	padding-left: 2em;
+}
+
+.btn {
+	margin-top: 100px;
+	margin-left: 150px; 
+}
+
+.btn-danger {
+	background-color: #ad0000;
+	color: #FFFFFD;
+}
+
+.footer-text {
+	color: #010c76;
+	font-size: 18px;
+	font-family: times-new-roman;
+	text-align: right;
+	padding-top: 2em;
+	padding-right: 2em;
+}
+
+
+
+
+
+
+
+
+ 
